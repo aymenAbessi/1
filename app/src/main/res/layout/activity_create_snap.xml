@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/backgroundcreate"
+    tools:context=".CreateSnap">
+
+    <ImageView
+        android:id="@+id/createSnapImg"
+        android:layout_width="208dp"
+        android:layout_height="203dp"
+        android:layout_marginTop="40dp"
+        android:layout_marginBottom="23dp"
+        android:contentDescription="image to sent"
+        app:layout_constraintBottom_toTopOf="@+id/choose"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.507"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/choose"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/choosebutton"
+        android:layout_marginTop="23dp"
+        android:onClick="select"
+        android:text="CHOOSE IMG"
+        android:textColor="#03A9F4"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/createSnapImg"
+        tools:ignore="OnClick" />
+
+    <EditText
+        android:id="@+id/msg"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="38dp"
+        android:layout_marginBottom="230dp"
+        android:ems="10"
+        android:hint="Message"
+        android:backgroundTint="#E91E63"
+        android:textColor="#03A9F4"
+        android:inputType="textPersonName"
+        android:minHeight="48dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/choose"
+        android:autofillHints="" />
+
+    <Button
+        android:id="@+id/next"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="21dp"
+        android:layout_marginBottom="161dp"
+        android:onClick="next"
+        android:text="next"
+        android:textStyle="bold"
+        android:textColor="#E91E63"
+        android:background="@drawable/nextbutton"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/msg" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

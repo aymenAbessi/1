@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1086417245161",
+    "project_id": "first-d0db9",
+    "storage_bucket": "first-d0db9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1086417245161:android:15eca4c4aa318a3f3cf178",
+        "android_client_info": {
+          "package_name": "com.example.readitonce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1086417245161-e7r6nkuqiflp77ndkmu7ufcnlsvigb5l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbWZ3cDBsRhut9sRufGdWjOulwvj40MhA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1086417245161-e7r6nkuqiflp77ndkmu7ufcnlsvigb5l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

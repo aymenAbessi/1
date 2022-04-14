@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Aymen/AndroidStudioProjects/Readitonce/app/src/main/res/drawable/button_round.xml" value="0.2025" />
+        <entry key="..\:/Users/Aymen/AndroidStudioProjects/Readitonce/app/src/main/res/drawable/choosebutton.xml" value="0.2025" />
+        <entry key="..\:/Users/Aymen/AndroidStudioProjects/Readitonce/app/src/main/res/drawable/item.xml" value="0.2025" />
+        <entry key="..\:/Users/Aymen/AndroidStudioProjects/Readitonce/app/src/main/res/drawable/nextbutton.xml" value="0.2025" />
+        <entry key="..\:/Users/Aymen/AndroidStudioProjects/Readitonce/app/src/main/res/drawable/rounded_edittext_states.xml" value="0.2025" />
+        <entry key="..\:/Users/Aymen/AndroidStudioProjects/Readitonce/app/src/main/res/layout/activity_choose_user.xml" value="0.20380434782608695" />
+        <entry key="..\:/Users/Aymen/AndroidStudioProjects/Readitonce/app/src/main/res/layout/activity_create_snap.xml" value="0.264" />
+        <entry key="..\:/Users/Aymen/AndroidStudioProjects/Readitonce/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/Aymen/AndroidStudioProjects/Readitonce/app/src/main/res/layout/activity_snap_view.xml" value="0.20380434782608695" />
+        <entry key="..\:/Users/Aymen/AndroidStudioProjects/Readitonce/app/src/main/res/layout/activity_snaps.xml" value="0.20380434782608695" />
+        <entry key="..\:/Users/Aymen/AndroidStudioProjects/Readitonce/app/src/main/res/layout/alert_loading.xml" value="0.8" />
+        <entry key="..\:/Users/Aymen/AndroidStudioProjects/Readitonce/app/src/main/res/layout/item.xml" value="0.24547101449275363" />
+        <entry key="..\:/Users/Aymen/AndroidStudioProjects/Readitonce/app/src/main/res/layout/nothing.xml" value="0.4" />
+        <entry key="..\:/Users/Aymen/AndroidStudioProjects/Readitonce/app/src/main/res/menu/snaps.xml" value="0.25052083333333336" />
+        <entry key="..\:/Users/Aymen/AndroidStudioProjects/Readitonce/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.124" />
+        <entry key="..\:/Users/Aymen/AndroidStudioProjects/Readitonce/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.124" />
+        <entry key="..\:/Users/Aymen/AndroidStudioProjects/Readitonce/auth/src/main/res/layout/activity_main.xml" value="0.20380434782608695" />
+        <entry key="..\:/Users/Aymen/AndroidStudioProjects/Readitonce/auth/src/main/res/layout/activity_main2.xml" value="0.20380434782608695" />
+        <entry key="..\:/Users/Aymen/AndroidStudioProjects/Readitonce/myapplication/src/main/res/layout/activity_main.xml" value="0.24010416666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
